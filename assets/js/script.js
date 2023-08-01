@@ -2,6 +2,7 @@ const addBtnEl = document.getElementById("addBtn")
 const userListEl = document.getElementById("userlist")
 const addToListEl = document.getElementById("addToList")
 let username = ["admin01","admin02","admin03"]
+document.title = "list"
 
 // console.log(username)
 // username.push("admin04")
